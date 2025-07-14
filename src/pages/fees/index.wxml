@@ -1,0 +1,4 @@
+<!--pages/fees/index.wxml-->
+<view class="container">
+  <text>费用中心</text>
+</view>

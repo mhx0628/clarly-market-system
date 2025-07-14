@@ -1,0 +1,20 @@
+{
+  "name": "market-management-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Market Management WeChat Mini Program",
+  "main": "src/api/server.js",
+  "scripts": {
+    "start": "node src/api/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^2.5.0"
+  }
+}

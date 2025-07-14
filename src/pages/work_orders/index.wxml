@@ -1,0 +1,4 @@
+<!--pages/work_orders/index.wxml-->
+<view class="container">
+  <text>服务工单</text>
+</view>

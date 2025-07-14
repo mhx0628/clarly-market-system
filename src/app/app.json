@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/fees/index",
+    "pages/work_orders/index",
+    "pages/profile/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "澄迈市场管理",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#2A6EFD",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "assets/icons/home-outline.png",
+        "selectedIconPath": "assets/icons/home-filled.png"
+      },
+      {
+        "pagePath": "pages/fees/index",
+        "text": "费用中心",
+        "iconPath": "assets/icons/cash-outline.png",
+        "selectedIconPath": "assets/icons/cash-filled.png"
+      },
+      {
+        "pagePath": "pages/work_orders/index",
+        "text": "服务工单",
+        "iconPath": "assets/icons/document-text-outline.png",
+        "selectedIconPath": "assets/icons/document-text-filled.png"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的",
+        "iconPath": "assets/icons/person-outline.png",
+        "selectedIconPath": "assets/icons/person-filled.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

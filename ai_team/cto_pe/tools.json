@@ -1,0 +1,14 @@
+[
+  "search_codebase",
+  "search_by_regex",
+  "view_files",
+  "write_to_file",
+  "update_file",
+  "edit_file_fast_apply",
+  "rename_file",
+  "delete_file",
+  "run_command",
+  "check_command_status",
+  "stop_command",
+  "finish"
+]

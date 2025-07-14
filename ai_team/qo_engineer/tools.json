@@ -1,0 +1,9 @@
+[
+  "run_command",
+  "check_command_status",
+  "stop_command",
+  "view_files",
+  "list_dir",
+  "web_search",
+  "finish"
+]

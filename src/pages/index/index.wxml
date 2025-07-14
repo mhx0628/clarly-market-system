@@ -1,0 +1,9 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+  <text>首页</text>
+  <button wx:if="{{!hasUserInfo}}" class="login-button" bindtap="login">微信一键登录</button>
+  <view wx:else>
+    <image class="avatar" src="{{userInfo.avatarUrl}}"></image>
+    <text class="nickname">{{userInfo.nickName}}</text>
+  </view>
+</view>

@@ -1,0 +1,4 @@
+/**pages/fees/index.wxss**/
+.container {
+  padding: 20rpx;
+}
